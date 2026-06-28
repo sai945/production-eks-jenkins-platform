@@ -1,7 +1,5 @@
-# Project Roadmap
-
-## Sprint 0
-
+Project Roadmap
+Sprint 0
 Project Planning
 
 Repository Setup
@@ -12,10 +10,7 @@ Git
 
 Documentation
 
----
-
-## Sprint 1
-
+Sprint 1
 Java Spring Boot Application
 
 Docker
@@ -24,10 +19,7 @@ Maven
 
 Unit Testing
 
----
-
-## Sprint 2
-
+Sprint 2
 Kubernetes
 
 Deployments
@@ -36,10 +28,7 @@ Services
 
 Ingress
 
----
-
-## Sprint 3
-
+Sprint 3
 Terraform
 
 VPC
@@ -48,20 +37,14 @@ IAM
 
 ECR
 
----
-
-## Sprint 4
-
+Sprint 4
 Amazon EKS
 
 Helm
 
 Jenkins
 
----
-
-## Sprint 5
-
+Sprint 5
 CI/CD
 
 Shared Library
@@ -70,10 +53,7 @@ SonarQube
 
 Trivy
 
----
-
-## Sprint 6
-
+Sprint 6
 Monitoring
 
 Prometheus
@@ -82,10 +62,7 @@ Grafana
 
 Slack
 
----
-
-## Sprint 7
-
+Sprint 7
 GitOps
 
 ArgoCD
